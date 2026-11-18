@@ -27,3 +27,6 @@ Al incrementar PATCH, únicamente aumenta el último componente.
 3 - Objetivo: mantener un control claro y consistente de los cambios realizados en el proyecto, facilitando el seguimiento de versiones, actualizaciones y despliegues.
 
 REGLAS DE IA 
+
+REGLAS DE NEGOCIOS
+
