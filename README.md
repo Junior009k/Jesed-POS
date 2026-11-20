@@ -45,3 +45,10 @@ IMPLEMENTACION AMBIENTE DE DESARROLLO
 
 Nota: Descargar o clonar el repositorio no significa que la aplicación esté lista para ejecutarse. Es necesario instalar y configurar las dependencias indicadas por el proyecto.
 
+USO DE GITHUB
+
+1-Descargar proyecto git clone https://github.com/Junior009k/Jesed-POS.git
+2-Para subir una actualizacion
+git add .
+git commit -m "Commit de ejemplo"
+git push origin main
